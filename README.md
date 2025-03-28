@@ -8,17 +8,11 @@ This collection systematically organizes fundamental advances and practical impl
 
 🔹 **LLM-powered KG** (dynamic knowledge acquisition and refinement)
 
-</br>
 
-📌 **Note:** Keywords may help you find the target paper.
-
-</br>
-
-</br>
 
 # 🔍 Table of Contents
 
-- [📜 Survey](#survey)
+- [📜 Survey and Datasets](#survey-and-datasets)
 
 - [📜 Knowledge Graph Completion](#knowledge-graph-completion)
 
@@ -26,15 +20,13 @@ This collection systematically organizes fundamental advances and practical impl
 
   
 
+</br>
 
-
-
+📌 **Note:** Keywords may help you find the target paper.
 
 </br>
 
-</br>
-
-# Survey
+# Survey and Datasets
 
 ### 2025
 
@@ -48,7 +40,7 @@ This collection systematically organizes fundamental advances and practical impl
 
   
 
-</br>
+
 
 ### 2024
 
@@ -90,7 +82,7 @@ This collection systematically organizes fundamental advances and practical impl
 
 
 
-</br>
+
 
 ### 2023
 
@@ -108,7 +100,7 @@ This collection systematically organizes fundamental advances and practical impl
 
 
 
-</br>
+
 
 ### 2022 and Before
 
@@ -124,13 +116,23 @@ This collection systematically organizes fundamental advances and practical impl
 
   **🕵️Keywords:** KG Embedding · KG Reasoning · Link Prediction
 
-- `[]` **.** [[Paper]()]
+- `[ACL-IJCNLP 2021]` **Are Missing Links Predictable? An Inferential Benchmark for Knowledge Graph Completion.** [[Paper](https://aclanthology.org/2021.acl-long.534/)] [[Dataset](https://github.com/TaoMiner/inferwiki)]
 
-  **🕵️Keywords:**  ·  ·  ·
+  **🕵️Keywords:** Benchmark Dataset · KG Completion
 
-  
+- `[IEEE Access-2020/05]` **Utilizing Textual Information in Knowledge Graph Embedding: A Survey of Methods and Applications.** [[Paper](https://doi.org/10.1109/ACCESS.2020.2995074)] 
 
-</br>
+  **🕵️Keywords:** KG Embedding · Textual Information 
+
+- `[arXiv-2020/05]` **A Survey on Graph Neural Networks for Knowledge Graph Completion.** [[Paper](https://arxiv.org/abs/2007.12374v1)] 
+
+  **🕵️Keywords:** KG Completion · GNNs 
+
+- `[TKDE-2017/12]` **Knowledge Graph Embedding: A Survey of Approaches and Applications.** [[Paper](https://doi.org/10.1109/TKDE.2017.2754499)] 
+
+  **🕵️Keywords:** KG Embedding · Statistical Relational Learning · Matrix Factorization
+
+
 
 </br>
 
@@ -140,7 +142,7 @@ This collection systematically organizes fundamental advances and practical impl
 
 
 
-</br>
+
 
 </br>
 
@@ -148,7 +150,7 @@ This collection systematically organizes fundamental advances and practical impl
 
 .
 
-</br>
+
 
 </br>
 
