@@ -3,26 +3,30 @@
 A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** and **Large Language Models (LLMs)** synergy. 
 
 This collection systematically organizes fundamental advances and practical implementations across two key paradigms:
+
 🔹 **KG-enhanced LLM** (structured knowledge grounding)
+
 🔹 **LLM-powered KG** (dynamic knowledge acquisition and refinement)
 
+</br>
 
-
-------
+</br>
 
 **Table of Contents**
 
-[TOC]
+- [📜 Survey](#survey)
+- [📜 Knowledge Graph Completion](#Knowledge Graph Completion)
+- 
 
 
 
 
 
+</br>
 
+</br>
 
-
-
-## 📜 Survey
+## Survey
 
 - `[TKDE-2024/07]` **Unifying Large Language Models and Knowledge Graphs: A Roadmap.**  [[paper](https://ieeexplore.ieee.org/abstract/document/10387715)] 
 
@@ -48,7 +52,7 @@ This collection systematically organizes fundamental advances and practical impl
 
 
 
-## 📜 Knowledge Graph Completion
+## Knowledge Graph Completion
 
 .
 
@@ -56,7 +60,7 @@ This collection systematically organizes fundamental advances and practical impl
 
 
 
-## 📜 Knowledge Graph Question Answering
+## Knowledge Graph Question Answering
 
 .
 
