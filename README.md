@@ -1,8 +1,6 @@
 # 📚 KG-LLM Research Collection
 
-A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** and **Large Language Models (LLMs)** synergy. 
-
-This collection systematically organizes fundamental advances and practical implementations across two key paradigms:
+A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** and **Large Language Models (LLMs)** synergy. This collection systematically organizes fundamental advances and practical implementations across two key paradigms:
 
 🔹 **KG-enhanced LLM** (structured knowledge grounding)
 
