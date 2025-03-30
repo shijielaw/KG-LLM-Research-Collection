@@ -102,9 +102,7 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 
   **🕵️Keywords:** LLMs Enhance Graph Learning · Graphs Enhance LLM Ability
 
-- `[]` **.** [[Paper]()]
-
-  **🕵️Keywords:**  ·  ·  ·
+  
 
   
 
