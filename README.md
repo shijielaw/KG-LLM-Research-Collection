@@ -118,10 +118,6 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 
   **🕵️Keywords:** LLMs · PLMs · KGs · Retrieval Augmented LMs
 
-- `[]` **.** [[Paper]()]
-
-  **🕵️Keywords:**  ·  ·  ·
-
 - 
 
 ### 2022 and Before
@@ -142,7 +138,7 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 
   **🕵️Keywords:** KG Embedding · KG Reasoning · Link Prediction
 
-- `[ACL-IJCNLP 2021]` **Are Missing Links Predictable? An Inferential Benchmark for Knowledge Graph Completion.** [[Paper](https://aclanthology.org/2021.acl-long.534/)] [[Dataset](https://github.com/TaoMiner/inferwiki)]
+- `[ACL-IJCNLP'21]` **Are Missing Links Predictable? An Inferential Benchmark for Knowledge Graph Completion.** [[Paper](https://aclanthology.org/2021.acl-long.534/)] [[Dataset](https://github.com/TaoMiner/inferwiki)]
 
   **🕵️Keywords:** Benchmark Dataset · KG Completion
 
