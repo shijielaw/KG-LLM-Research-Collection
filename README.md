@@ -54,7 +54,7 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 
   **🕵️Keywords:** Graph RAG · Customized LLMs · Survey
 
-- 
+  
 
 ### 2024
 
@@ -82,7 +82,7 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 
   **🕵️Keywords:** KG Reasoning · KGs · Temporal KGs · Multi-Modal KGs
 
-  `[arXiv-2024/01]` **A Survey of Reasoning with Foundation Models.** [[Paper](https://arxiv.org/abs/2312.11562v5)]
+- `[arXiv-2024/01]` **A Survey of Reasoning with Foundation Models.** [[Paper](https://arxiv.org/abs/2312.11562v5)]
 
   **🕵️Keywords:** Reasoning · Multimodal · Foundation Models · No KGs
 
@@ -106,7 +106,7 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 
   **🕵️Keywords:**  ·  ·  ·
 
-- 
+  
 
 ### 2023
 
@@ -118,7 +118,8 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 
   **🕵️Keywords:** LLMs · PLMs · KGs · Retrieval Augmented LMs
 
-- 
+  
+
 
 ### 2022 and Before
 
@@ -154,7 +155,7 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 
   **🕵️Keywords:** KG Embedding · Statistical Relational Learning · Matrix Factorization
   
-- 
+  
 
 </br>
 
@@ -166,7 +167,7 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 
   **🕵️Keywords:** LLMs · Graph Reasoning · Reinforcement Learning · Process Reward Models 
 
-- 
+  
 
 </br>
 
@@ -182,7 +183,7 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 
   **🕵️Keywords:** LLM Reasoning · KGs Enhanced Reasoning · Post-Retrieval Processing and Reward Model
 
-- 
+  
 
 ### 2024
 
@@ -190,15 +191,15 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 
   **🕵️Keywords:** LLMs · Graph Representation Learning · Prompt Instruction
 
-- 
+  
 
 ### 2023
 
-- 
+
 
 ### 2022 and Before
 
-- 
+
 
 <br/>
 
@@ -206,7 +207,7 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 
 ### 2025
 
-- 
+
 
 ### 2024
 
@@ -214,7 +215,7 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 
   **🕵️Keywords:** KG Completion · LLMs · Structure-Text · Knowledge Adaption
 
-- 
+  
 
 </br>
 
@@ -222,7 +223,7 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 
 ### 2025
 
-- 
+
 
 ### 2024
 
@@ -234,7 +235,7 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 
   **🕵️Keywords:** Knowledge Representation · KGQA · LLMs · Condition Graph
 
-- 
+  
 
 <br/>
 
@@ -258,7 +259,7 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 
   **🕵️Keywords:** Graph RAG · KGs · LLMs · Think-on-Graph
 
-- 
+  
 
 ### 2024
 
@@ -270,5 +271,5 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 
   **🕵️Keywords:** RAG · LLMs · KGs · Graph Neural Prompting
 
-- 
+  
 
