@@ -8,7 +8,7 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 
 </br>
 
-<details open>
+<details>
     <summary><b> 🥳 Good News </b></summary>
 
 - **`2025/01`**  Our demo paper **MMKG-RAG: Retrieval-Augmented Generation with Multi-Modal Knowledge Graph** has been accepted by **DASFAA 2025**. [[📄]()] [[🛠️](https://github.com/wenzhaoabc/mmkg-rag)]
