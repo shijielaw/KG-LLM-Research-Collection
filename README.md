@@ -276,7 +276,7 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 
 <details open>
     <summary><b>👈 Question Answering </b></summary>
-[**[ Jump to ToC ]**](#🔍-table-of-contents)
+[**Jump to ToC**](#🔍-table-of-contents)
 
 # Question Answering 
 
@@ -300,10 +300,10 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 
 <br/>
 
+[**Jump to ToC **](#🔍-table-of-contents)
+
 <details open>
     <summary><b>👈 Representation Learning </b></summary>
-[**[ Jump to ToC ]**](#🔍-table-of-contents)
-
 # Representation Learning
 
 ### 2025
