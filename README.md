@@ -290,10 +290,6 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 
 <br/>
 
-[**Jump to ToC **](#🔍-table-of-contents)
-
-
-
 <details open>
     <summary><b>👈 Representation Learning </b></summary>
 # Representation Learning
