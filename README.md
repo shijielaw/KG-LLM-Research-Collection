@@ -33,7 +33,7 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 
 
 <details open>
-    <summary><b>👈 Click here to collapse or expand the chapter below.</b></summary>
+    <summary><b>👈 Survey, Evaluation, and Dataset </b></summary>
 
 
 
@@ -60,10 +60,6 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 - `[arXiv-2025/01]` **A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models.** [[📄](https://arxiv.org/abs/2501.13958v1)] [[🛠️](https://github.com/DEEP-PolyU/Awesome-GraphRAG)]
 
   **🕵️Keywords:** Graph RAG · Customized LLMs · Survey
-
-- 
-
-
 
 ### 2024
 
@@ -115,8 +111,6 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 
   **🕵️Keywords:** LLMs Enhance Graph Learning · Graphs Enhance LLM Ability
 
-  
-
 ### 2023
 
 - `[ACM Computing Surveys-2023/11]` **A Comprehensive Survey on Automatic Knowledge Graph Construction.** [[📄](https://dl.acm.org/doi/10.1145/3618295)]
@@ -126,8 +120,6 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 - `[arXiv-2023/08]` **Large Language Models and Knowledge Graphs: Opportunities and Challenges.** [[📄](https://arxiv.org/abs/2308.06374v1)]
 
   **🕵️Keywords:** LLMs · PLMs · KGs · Retrieval Augmented LMs
-
-  
 
 
 ### 2022 and Before
@@ -163,12 +155,15 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 - `[TKDE-2017/12]` **Knowledge Graph Embedding: A Survey of Approaches and Applications.** [[📄](https://doi.org/10.1109/TKDE.2017.2754499)] 
 
   **🕵️Keywords:** KG Embedding · Statistical Relational Learning · Matrix Factorization
-  
-  
-  
-  </details>
+
+​	</details> 
 
 </br>
+
+<details open>
+    <summary><b>👈 Reasoning </b></summary>
+
+
 
 # Reasoning
 
@@ -190,15 +185,11 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 
   **🕵️Keywords:** LLM Reasoning · LLMs · KGs
 
-
-
 ### 2024
 
 - `[ICLR'24-2024/01]` **Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph.** [[📄](https://openreview.net/forum?id=nnVO1PvbTv)] [[🛠️](https://github.com/IDEA-FinAI/ToG)] 
 
   **🕵️Keywords:** LLM Reasoning · KGs · ToG
-
-
 
 ### 2023
 
@@ -206,17 +197,16 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 
   **🕵️Keywords:** Reasoning · LLMs · KGQA
 
-</details> 
-
-
+​	</details> 
 
 </br>
 
+<details open>
+    <summary><b>👈 KG Completion </b></summary>
+
+
+
 # KG Completion
-
-### 2025
-
-
 
 ### 2024
 
@@ -224,9 +214,14 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 
   **🕵️Keywords:** KG Completion · LLMs · Structure-Text · Knowledge Adaption
 
-  
+​	</details> 
 
 </br>
+
+<details open>
+    <summary><b>👈 Graph RAG </b></summary>
+
+
 
 # Graph RAG 
 
@@ -256,8 +251,6 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 
   **🕵️Keywords:** Graph RAG · KGs · LLMs · Think-on-Graph
 
-  
-
 ### 2024
 
 - `[arXiv-2024/12]` **HybGRAG: Hybrid Retrieval-Augmented Generation on Textual and Relational Knowledge Bases.** [[📄](https://arxiv.org/abs/2412.16311v1)]
@@ -272,7 +265,14 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 
   **🕵️Keywords:** RAG · LLMs · KGs · Graph Neural Prompting
 
-  
+​	</details> 
+
+<br/>
+
+<details open>
+    <summary><b>👈 Representation Learning </b></summary>
+
+
 
 # Representation Learning
 
@@ -286,31 +286,22 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 
   **🕵️Keywords:** LLM Reasoning · KGs Enhanced Reasoning · Post-Retrieval Processing and Reward Model
 
-  
-
 ### 2024
 
 - `[EACL'24 Findings-2024/03]` **Language is All a Graph Need.** [[📄](https://aclanthology.org/2024.findings-eacl.132/)] [[🛠️](https://github.com/agiresearch/InstructGLM)]
 
   **🕵️Keywords:** LLMs · Graph Representation Learning · Prompt Instruction
 
-  
-
-### 2023
-
-
-
-### 2022 and Before
-
-
+​	</details> 
 
 <br/>
 
+<details open>
+    <summary><b>👈 Question Answering </b></summary>
+
+
+
 # Question Answering 
-
-### 2025
-
-
 
 ### 2024
 
@@ -322,14 +313,13 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 
   **🕵️Keywords:** Knowledge Representation · KGQA · LLMs · Condition Graph
 
-
-
-
 ### 2023
 
 - `[ICLR'23-2023/02]` **UniKGQA: Unified Retrieval and Reasoning for Solving Multi-hop Question Answering Over Knowledge Graph.** [[📄](https://openreview.net/forum?id=Z63RvyAZ2Vh)] [[🛠️](https://github.com/RUCAIBox/UniKGQA)]
 
   **🕵️Keywords:** Retrieval and Reasoning · Multi-Hop QA · KGs 
+
+​	</details> 
 
 <br/>
 
