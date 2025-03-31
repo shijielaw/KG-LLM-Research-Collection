@@ -8,6 +8,15 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 
 </br>
 
+<details open>
+    <summary><b> 🥳 Good News </b></summary>
+
+- **`2025/01`**  Our demo paper **MMKG-RAG: Retrieval-Augmented Generation with Multi-Modal Knowledge Graph** has been accepted by **DASFAA 2025**. [[📄]()] [[🛠️](https://github.com/wenzhaoabc/mmkg-rag)]
+
+</details>
+
+</br>
+
 # 🔍 Table of Contents
 
 - [**📑 Survey, Evaluation, and Dataset**](#survey-evaluation-and-dataset)
@@ -26,7 +35,7 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 
 </br>
 
-📌 **Note:** Keywords may help to find the target paper (📄) and repository (🛠️).
+📌 **Note:** Keywords may help to find the target **paper** (📄) and **repository** (🛠️).
 
 </br>
 
@@ -34,8 +43,6 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 
 <details open>
     <summary><b>👈 Survey, Evaluation, and Dataset </b></summary>
-
-
 
 # Survey, Evaluation, and Dataset
 
@@ -163,8 +170,6 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 <details open>
     <summary><b>👈 Reasoning </b></summary>
 
-
-
 # Reasoning
 
 ### 2025
@@ -203,8 +208,6 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 
 <details open>
     <summary><b>👈 Graph RAG </b></summary>
-
-
 
 # Graph RAG 
 
@@ -255,8 +258,6 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 <details open>
     <summary><b>👈 KG Completion </b></summary>
 
-
-
 # KG Completion
 
 ### 2024
@@ -271,8 +272,6 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 
 <details open>
     <summary><b>👈 Question Answering </b></summary>
-
-
 
 # Question Answering 
 
@@ -298,8 +297,6 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 
 <details open>
     <summary><b>👈 Representation Learning </b></summary>
-
-
 
 # Representation Learning
 
