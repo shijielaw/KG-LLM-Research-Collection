@@ -32,7 +32,7 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 
 
 
-```js
+```html
 <details>
 <summary> Click to collapse/expand Survey, Evaluation, and Dataset </summary>
 ```
@@ -167,9 +167,7 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
   **🕵️Keywords:** KG Embedding · Statistical Relational Learning · Matrix Factorization
   
 
-
-
-```js
+```html
 </details>
 ```
 
