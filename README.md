@@ -32,8 +32,8 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 
 
 
-<details>
-    <summary><font color=darkgreen><b>👈 Click Here to Collapse/Expand.</b></font></summary>
+<details open>
+    <summary><b>👈 Click here to collapse or expand the chapter below.</b></summary>
 
 
 
