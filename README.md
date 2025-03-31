@@ -202,23 +202,6 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 </br>
 
 <details open>
-    <summary><b>👈 KG Completion </b></summary>
-
-
-
-# KG Completion
-
-### 2024
-
-- `[MM'24-2024/10]` **Making Large Language Models Perform Better in Knowledge Graph Completion.** [[📄](https://dl.acm.org/doi/abs/10.1145/3664647.3681327)] [[🛠️](https://github.com/zjukg/KoPA)]
-
-  **🕵️Keywords:** KG Completion · LLMs · Structure-Text · Knowledge Adaption
-
-​	</details> 
-
-</br>
-
-<details open>
     <summary><b>👈 Graph RAG </b></summary>
 
 
@@ -270,31 +253,21 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 <br/>
 
 <details open>
-    <summary><b>👈 Representation Learning </b></summary>
+    <summary><b>👈 KG Completion </b></summary>
 
 
 
-# Representation Learning
-
-### 2025
-
-- `[arXiv-2025/03]` **LLM as GNN: Graph Vocabulary Learning for Text-Attributed Graph Foundation Models.** [[📄](https://arxiv.org/abs/2503.03313v1)] [[❌](https://github.com/agiresearch/PromptGFM)]
-
-  **🕵️Keywords:** Text-Attributed Graphs · GNNs · LLMs · Graph Foundation Models
-
-- `[arXiv-2025/03]` **Graph-Augmented Reasoning: Evolving Step-by-Step Knowledge Graph Retrieval for LLM Reasoning.** [[📄](https://arxiv.org/abs/2503.01642v1)]
-
-  **🕵️Keywords:** LLM Reasoning · KGs Enhanced Reasoning · Post-Retrieval Processing and Reward Model
+# KG Completion
 
 ### 2024
 
-- `[EACL'24 Findings-2024/03]` **Language is All a Graph Need.** [[📄](https://aclanthology.org/2024.findings-eacl.132/)] [[🛠️](https://github.com/agiresearch/InstructGLM)]
+- `[MM'24-2024/10]` **Making Large Language Models Perform Better in Knowledge Graph Completion.** [[📄](https://dl.acm.org/doi/abs/10.1145/3664647.3681327)] [[🛠️](https://github.com/zjukg/KoPA)]
 
-  **🕵️Keywords:** LLMs · Graph Representation Learning · Prompt Instruction
+  **🕵️Keywords:** KG Completion · LLMs · Structure-Text · Knowledge Adaption
 
 ​	</details> 
 
-<br/>
+</br>
 
 <details open>
     <summary><b>👈 Question Answering </b></summary>
@@ -318,6 +291,33 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 - `[ICLR'23-2023/02]` **UniKGQA: Unified Retrieval and Reasoning for Solving Multi-hop Question Answering Over Knowledge Graph.** [[📄](https://openreview.net/forum?id=Z63RvyAZ2Vh)] [[🛠️](https://github.com/RUCAIBox/UniKGQA)]
 
   **🕵️Keywords:** Retrieval and Reasoning · Multi-Hop QA · KGs 
+
+​	</details> 
+
+<br/>
+
+<details open>
+    <summary><b>👈 Representation Learning </b></summary>
+
+
+
+# Representation Learning
+
+### 2025
+
+- `[arXiv-2025/03]` **LLM as GNN: Graph Vocabulary Learning for Text-Attributed Graph Foundation Models.** [[📄](https://arxiv.org/abs/2503.03313v1)] [[❌](https://github.com/agiresearch/PromptGFM)]
+
+  **🕵️Keywords:** Text-Attributed Graphs · GNNs · LLMs · Graph Foundation Models
+
+- `[arXiv-2025/03]` **Graph-Augmented Reasoning: Evolving Step-by-Step Knowledge Graph Retrieval for LLM Reasoning.** [[📄](https://arxiv.org/abs/2503.01642v1)]
+
+  **🕵️Keywords:** LLM Reasoning · KGs Enhanced Reasoning · Post-Retrieval Processing and Reward Model
+
+### 2024
+
+- `[EACL'24 Findings-2024/03]` **Language is All a Graph Need.** [[📄](https://aclanthology.org/2024.findings-eacl.132/)] [[🛠️](https://github.com/agiresearch/InstructGLM)]
+
+  **🕵️Keywords:** LLMs · Graph Representation Learning · Prompt Instruction
 
 ​	</details> 
 
