@@ -17,6 +17,8 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 
 </br>
 
+<span id="jump">Toc</span>
+
 # 🔍 Table of Contents
 
 - [**📑 Survey, Evaluation, and Dataset**](#survey-evaluation-and-dataset)
@@ -43,6 +45,9 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 
 <details open>
     <summary><b>👈 Survey, Evaluation, and Dataset </b></summary>
+
+[Toc](#jump)
+
 
 # Survey, Evaluation, and Dataset
 
@@ -169,6 +174,9 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 
 <details open>
     <summary><b>👈 Reasoning </b></summary>
+
+[Toc](#jump)
+
 
 # Reasoning
 
