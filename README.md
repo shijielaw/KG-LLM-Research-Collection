@@ -32,7 +32,8 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 
 
 
-<details><summary><font color=darkgreen><b>👈 Click Here to Collapse/Expand.</b></font></summary></details>
+<details>
+    <summary><font color=darkgreen><b>👈 Click Here to Collapse/Expand.</b></font></summary>
 
 
 
@@ -163,10 +164,9 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 
   **🕵️Keywords:** KG Embedding · Statistical Relational Learning · Matrix Factorization
   
-
-```html
-</details>
-```
+  
+  
+  </details>
 
 </br>
 
@@ -207,6 +207,8 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
   **🕵️Keywords:** Reasoning · LLMs · KGQA
 
 </details> 
+
+
 
 </br>
 
