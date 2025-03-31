@@ -206,9 +206,7 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 
   **🕵️Keywords:** Reasoning · LLMs · KGQA
 
-
-
-<details> 
+</details> 
 
 </br>
 
