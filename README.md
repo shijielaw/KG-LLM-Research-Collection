@@ -32,10 +32,7 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 
 
 
-```html
-<details>
-<summary> Click to collapse/expand Survey, Evaluation, and Dataset </summary>
-```
+<details><summary><font color=darkgreen><b>👈 Click Here to Collapse/Expand.</b></font></summary></details>
 
 
 
@@ -210,6 +207,8 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
   **🕵️Keywords:** Reasoning · LLMs · KGQA
 
 
+
+<details> 
 
 </br>
 
