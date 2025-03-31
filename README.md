@@ -6,21 +6,21 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 
 🔹 **LLM-powered KG** (dynamic knowledge acquisition and refinement)
 
-
+</br>
 
 # 🔍 Table of Contents
 
 - [**📑 Survey, Evaluation, and Dataset**](#survey-evaluation-and-dataset)
 
-- [**📑 Knowledge Graph Reasoning**](#knowledge-graph-reasoning)
+- [**📑 Reasoning**](#reasoning)
 
-- [**📑 Knowledge Graph Completion**](#knowledge-graph-completion)
+- [**📑 Graph RAG**](#graph-rag)
 
-- [**📑 Knowledge Representation Learning**](#knowledge-representation-learning)
+- [**📑 KG Completion**](#kg-completion)
 
-- [**📑 Knowledge Graph Question Answering**](#knowledge-graph-question-answering)
+- [**📑 Question Answering**](#question-answering)
 
-- [**📑 Graph Retrieval Augmented Generation**](#Graph-retrieval-augmented-generation)
+- [**📑 Representation Learning**](#representation-learning)
 
   
 
@@ -29,6 +29,15 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 📌 **Note:** Keywords may help to find the target paper (📄) and repository (🛠️).
 
 </br>
+
+
+
+```js
+<details>
+<summary> Click to collapse/expand Survey, Evaluation, and Dataset </summary>
+```
+
+
 
 # Survey, Evaluation, and Dataset
 
@@ -54,7 +63,9 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 
   **🕵️Keywords:** Graph RAG · Customized LLMs · Survey
 
-  
+- 
+
+
 
 ### 2024
 
@@ -77,6 +88,10 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 - `[TKDE-2024/07]` **Unifying Large Language Models and Knowledge Graphs: A Roadmap.**  [[📄](https://doi.org/10.1109/TKDE.2024.3352100)] 
 
   **🕵️Keywords:** KG-Enhanced LLMs · LLM-Augmented KGs · Synergized LLMs + KGs
+
+- `[arXiv-2024/06]` **MoreHopQA: More Than Multi-hop Reasoning.** [[📄](https://arxiv.org/abs/2406.13397v1)] [[🛠️](https://github.com/Alab-NII/morehopqa)]
+
+  **🕵️Keywords:** Multi-Hop QA · LLMs · Datasets
 
 - `[TPAMI-2024/06]` **A Survey of Knowledge Graph Reasoning on Graph Types: Static, Dynamic, and Multi-Modal.** [[📄](https://doi.org/10.1109/TPAMI.2024.3417451)] [[🛠️](https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning)]
 
@@ -151,23 +166,56 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 
   **🕵️Keywords:** KG Embedding · Statistical Relational Learning · Matrix Factorization
   
-  
+
+
+
+```js
+</details>
+```
 
 </br>
 
-# Knowledge Graph Reasoning
+# Reasoning
 
 ### 2025
+
+- `[arXiv-2025/03]` **KnowPath: Knowledge-enhanced Reasoning via LLM-generated Inference Paths over Knowledge Graphs.** [[📄](https://arxiv.org/pdf/2502.12029v2)]
+
+  **🕵️Keywords:** Knowledge-Enhanced LLMs · Inference Paths · KGQA 
 
 - `[arXiv-2025/03]` **Rewarding Graph Reasoning Process makes LLMs more Generalized Reasoners.** [[📄](https://arxiv.org/pdf/2503.00845v1)]
 
   **🕵️Keywords:** LLMs · Graph Reasoning · Reinforcement Learning · Process Reward Models 
 
-  
+- `[WWW'25-2025/01]` **Paths-over-Graph: Knowledge Graph Empowered Large Language Model Reasoning.** [[📄](https://openreview.net/forum?id=ICJysB6LdA)] [[🛠️](https://github.com/SteveTANTAN/PoG)]
+
+  **🕵️Keywords:** LLM Reasoning · Multi-Hop Path Exploration · QA 
+
+- `[arXiv-2025/01]` **Grounding LLM Reasoning with Knowledge Graphs.** [[📄](https://arxiv.org/abs/2502.13247v2)]
+
+  **🕵️Keywords:** LLM Reasoning · LLMs · KGs
+
+
+
+### 2024
+
+- `[ICLR'24-2024/01]` **Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph.** [[📄](https://openreview.net/forum?id=nnVO1PvbTv)] [[🛠️](https://github.com/IDEA-FinAI/ToG)] 
+
+  **🕵️Keywords:** LLM Reasoning · KGs · ToG
+
+
+
+### 2023
+
+- `[EMNLP'23 Findings-2023/12]` **KG-GPT: A general framework for reasoning on knowledge graphs using large language models.** [[📄](https://aclanthology.org/2023.findings-emnlp.631/)] [[🛠️](https://github.com/jiho283/KG-GPT)] 
+
+  **🕵️Keywords:** Reasoning · LLMs · KGQA
+
+
 
 </br>
 
-# Knowledge Graph Completion
+# KG Completion
 
 ### 2025
 
@@ -183,7 +231,53 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 
 </br>
 
-# Knowledge Representation Learning
+# Graph RAG 
+
+### 2025
+
+- `[arXiv-2025/03]` **PIKE-RAG: Specialized Knowledge and Rationale Augmented Generation.** [[📄](https://arxiv.org/pdf/2501.11551v4)]
+
+  **🕵️Keywords:** RAG · LLMs · Specialized Knowledge · Knowledge Atomizing · Knowledge-Aware Task Decomposition
+
+- `[arXiv-2025/02]` **GFM-RAG: Graph Foundation Model for Retrieval Augmented Generation.** [[📄](https://arxiv.org/pdf/2502.01113v1)] [[🛠️](https://github.com/RManLuo/gfm-rag)]
+
+  **🕵️Keywords:** RAG · LLMs · KGs · Graph Foundation Model
+
+- `[arXiv-2025/02]` **Are Large Language Models In-Context Graph Learners.** [[📄](https://arxiv.org/pdf/2502.13562v1)]
+
+  **🕵️Keywords:** RAG · LLMs · GNNs · In-Context Learning
+
+- `[arXiv-2025/01]` **HopRAG: Multi-Hop Reasoning for Logic-Aware Retrieval-Augmented Generation.** [[📄](https://arxiv.org/abs/2502.12442v1)]
+
+  **🕵️Keywords:** Multi-Hop Reasoning · RAG · Logic-Aware Retrieval
+
+- `[arXiv-2025/01]` **CG-RAG: Research Question Answering by Citation Graph Retrieval-Augmented LLMs.** [[📄](https://arxiv.org/abs/2501.15067v1)]
+
+  **🕵️Keywords:** Citation Graphs · RAG · Question Answering
+
+- `[arXiv-2025/01]` **Fast Think-on-Graph: Wider, Deeper and Faster Reasoning of Large Language Model on Knowledge Graph.** [[📄](https://arxiv.org/pdf/2501.14300v1)] [[🛠️](https://github.com/dosonleung/FastToG)]
+
+  **🕵️Keywords:** Graph RAG · KGs · LLMs · Think-on-Graph
+
+  
+
+### 2024
+
+- `[arXiv-2024/12]` **HybGRAG: Hybrid Retrieval-Augmented Generation on Textual and Relational Knowledge Bases.** [[📄](https://arxiv.org/abs/2412.16311v1)]
+
+  **🕵️Keywords:** Graph RAG · Semi-Structured Knowledge Base · Hybrid Question Answering
+
+  `[arXiv-2024/03]` **GNN-RAG: Graph Neural Retrieval for Large Language Model Reasoning.** [[📄](https://arxiv.org/pdf/2405.20139v1)] [[🛠️](https://github.com/cmavro/GNN-RAG)]
+
+  **🕵️Keywords:** LLM Reasoning · RAG · KGQA 
+
+- `[AAAI'24-2024/03]` **Graph Neural Prompting with Large Language Models.** [[📄](https://ojs.aaai.org/index.php/AAAI/article/view/29875)] [[🛠️](https://github.com/amazon-science/GNP)]
+
+  **🕵️Keywords:** RAG · LLMs · KGs · Graph Neural Prompting
+
+  
+
+# Representation Learning
 
 ### 2025
 
@@ -215,7 +309,7 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 
 <br/>
 
-# Knowledge Graph Question Answering 
+# Question Answering 
 
 ### 2025
 
@@ -231,41 +325,16 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 
   **🕵️Keywords:** Knowledge Representation · KGQA · LLMs · Condition Graph
 
-  
+
+
+
+### 2023
+
+- `[ICLR'23-2023/02]` **UniKGQA: Unified Retrieval and Reasoning for Solving Multi-hop Question Answering Over Knowledge Graph.** [[📄](https://openreview.net/forum?id=Z63RvyAZ2Vh)] [[🛠️](https://github.com/RUCAIBox/UniKGQA)]
+
+  **🕵️Keywords:** Retrieval and Reasoning · Multi-Hop QA · KGs 
 
 <br/>
 
-# Graph Retrieval Augmented Generation 
 
-### 2025
-
-- `[arXiv-2025/02]` **GFM-RAG: Graph Foundation Model for Retrieval Augmented Generation.** [[📄](https://arxiv.org/pdf/2502.01113v1)] [[🛠️](https://github.com/RManLuo/gfm-rag)]
-
-  **🕵️Keywords:** RAG · LLMs · KGs · Graph Foundation Model
-
-- `[arXiv-2025/02]` **Are Large Language Models In-Context Graph Learners.** [[📄](https://arxiv.org/pdf/2502.13562v1)]
-
-  **🕵️Keywords:** RAG · LLMs · GNNs · In-Context Learning
-
-- `[arXiv-2025/01]` **CG-RAG: Research Question Answering by Citation Graph Retrieval-Augmented LLMs.** [[📄](https://arxiv.org/abs/2501.15067v1)]
-
-  **🕵️Keywords:** Citation Graphs · RAG · Question Answering
-
-- `[arXiv-2025/01]` **Fast Think-on-Graph: Wider, Deeper and Faster Reasoning of Large Language Model on Knowledge Graph.** [[📄](https://arxiv.org/pdf/2501.14300v1)] [[🛠️](https://github.com/dosonleung/FastToG)]
-
-  **🕵️Keywords:** Graph RAG · KGs · LLMs · Think-on-Graph
-
-  
-
-### 2024
-
-- `[arXiv-2024/12]` **HybGRAG: Hybrid Retrieval-Augmented Generation on Textual and Relational Knowledge Bases.** [[📄](https://arxiv.org/abs/2412.16311v1)]
-
-  **🕵️Keywords:** Graph RAG · Semi-Structured Knowledge Base · Hybrid Question Answering
-
-- `[AAAI'24-2024/03]` **Graph Neural Prompting with Large Language Models.** [[📄](https://ojs.aaai.org/index.php/AAAI/article/view/29875)] [[🛠️](https://github.com/amazon-science/GNP)]
-
-  **🕵️Keywords:** RAG · LLMs · KGs · Graph Neural Prompting
-
-  
 
