@@ -46,7 +46,6 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 
 <details open>
     <summary><b>👈 Survey, Evaluation, and Dataset </b></summary>
-
 [🔍](#jump)
 
 
@@ -175,8 +174,8 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 
 <details open>
     <summary><b>👈 Reasoning </b></summary>
-[🔍](#jump)
 
+[🔍](#jump)
 
 # Reasoning
 
