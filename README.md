@@ -179,7 +179,7 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 <details open>
     <summary><b>👈 Reasoning </b></summary>
 
-​    
+
 
 # Reasoning
 
