@@ -44,12 +44,10 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 
 
 
+​	[🔍](#jump)
+
 <details open>
     <summary><b>👈 Survey, Evaluation, and Dataset </b></summary>
-
-
-
-​	[🔍](#jump)
 
 # Survey, Evaluation, and Dataset
 
@@ -174,12 +172,10 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 
 </br>
 
-<details open>
-    <summary><b>👈 Reasoning </b></summary>
-
-
 ​	[🔍](#jump)
 
+<details open>
+    <summary><b>👈 Reasoning </b></summary>
 # Reasoning
 
 ### 2025
@@ -236,11 +232,10 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 
 </br>
 
+​	[🔍](#jump)
+
 <details open>
     <summary><b>👈 Graph RAG </b></summary>
-​	
-
-​	[🔍](#jump)
 
 
 # Graph RAG 
@@ -301,12 +296,10 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 
 <br/>
 
-<details open>
-    <summary><b>👈 KG Completion </b></summary>
-​	
-
 ​	[🔍](#jump)
 
+<details open>
+    <summary><b>👈 KG Completion </b></summary>
 
 # KG Completion
 
@@ -326,12 +319,10 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 
 </br>
 
-<details open>
-    <summary><b>👈 Question Answering </b></summary>
-​	
-
 ​	[🔍](#jump)
 
+<details open>
+    <summary><b>👈 Question Answering </b></summary>
 
 # Question Answering 
 
@@ -355,12 +346,10 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 
 <br/>
 
-<details open>
-    <summary><b>👈 Representation Learning </b></summary>
-​	
-
 ​	[🔍](#jump) 
 
+<details open>
+    <summary><b>👈 Representation Learning </b></summary>
 
 # Representation Learning
 
