@@ -182,7 +182,7 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 
 - `[KDD'25-2025/08]` **Struct-X: Enhancing the Reasoning Capabilities of Large Language Models in Structured Data Scenarios.** [[📄](https://openreview.net/forum?id=5febtu3APm)] [[🛠️](https://github.com/AnonymousBoy123/anonymous_structx)]
 
-  **🕵️Keywords:** Knowledge-Enhanced LLMs · Inference Paths · KGQA 
+  **🕵️Keywords:** LLM Reasoning · Structured Data · KGQA 
 
 - `[arXiv-2025/03]` **KnowPath: Knowledge-enhanced Reasoning via LLM-generated Inference Paths over Knowledge Graphs.** [[📄](https://arxiv.org/pdf/2502.12029v2)]
 
