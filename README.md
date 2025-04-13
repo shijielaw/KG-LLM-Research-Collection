@@ -189,6 +189,10 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
 
   **🕵️Keywords:** LLM Reasoning · Structured Data · KGQA 
 
+- `[ICLR'25-2025/04]` **Think-on-Graph 2.0: Deep and Faithful Large Language Model Reasoning with Knowledge-guided Retrieval Augmented Generation.** [[📄](https://arxiv.org/abs/2407.10805v7)] [[🛠️](https://github.com/IDEA-FinAI/ToG-2 )]
+
+  **🕵️Keywords:** LLM Reasoning · Structured Data · Text Data · RAG
+
 - `[arXiv-2025/03]` **KnowPath: Knowledge-enhanced Reasoning via LLM-generated Inference Paths over Knowledge Graphs.** [[📄](https://arxiv.org/pdf/2502.12029v2)]
 
   **🕵️Keywords:** Knowledge-Enhanced LLMs · Inference Paths · KGQA 
@@ -221,7 +225,7 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
   
 - `[ICLR'24-2024/01]` **Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph.** [[📄](https://openreview.net/forum?id=nnVO1PvbTv)] [[🛠️](https://github.com/IDEA-FinAI/ToG)] 
 
-  **🕵️Keywords:** LLM Reasoning · KGs · ToG
+  **🕵️Keywords:** LLM Reasoning · Structured Data · KGQA 
 
 ### 2023
 
