@@ -12,7 +12,11 @@ A curated repository for cutting-edge research on **Knowledge Graphs (KGs)** (or
     <summary><b> 😎 Good News 😎 </b></summary>
 
 
+- **`2025/08`**  Our short paper **Bridging the Gap between Knowledge Graphs and LLMs for Multi-hop Question Answering** has been accepted by **CIKM 2025**. [[📄](https://doi.org/10.1145/3746252.3760973)] [[🛠️](https://github.com/shijielaw/BrikQA)]
+
 - **`2025/01`**  Our demo paper **MMKG-RAG: Retrieval-Augmented Generation with Multi-Modal Knowledge Graph** has been accepted by **DASFAA 2025**. [[📄]()] [[🛠️](https://github.com/wenzhaoabc/mmkg-rag)]
+
+  
 
 </details>
 
